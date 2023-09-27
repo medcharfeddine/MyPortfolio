@@ -32,7 +32,7 @@ const portfolio = () => {
               Github
             </a>
             <a
-              href="http://medcharfeddine-projects.epizy.com/Project1/"
+              href="https://github.com/medcharfeddine"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
