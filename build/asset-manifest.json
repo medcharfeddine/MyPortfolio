@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b8067b98.css",
-    "main.js": "/static/js/main.0b22f198.js",
+    "main.js": "/static/js/main.29d4bf93.js",
     "static/media/forja1.png": "/static/media/forja1.234291273e9706112e32.png",
     "static/media/avatar2.jpg": "/static/media/avatar2.bb246e44bbe9c29502bb.jpg",
     "static/media/avatar1.jpg": "/static/media/avatar1.1dc6bfd9b3c9be822e1e.jpg",
@@ -17,10 +17,10 @@
     "static/media/me-about.jpg": "/static/media/me-about.440c587c39972556559b.jpg",
     "index.html": "/index.html",
     "main.b8067b98.css.map": "/static/css/main.b8067b98.css.map",
-    "main.0b22f198.js.map": "/static/js/main.0b22f198.js.map"
+    "main.29d4bf93.js.map": "/static/js/main.29d4bf93.js.map"
   },
   "entrypoints": [
     "static/css/main.b8067b98.css",
-    "static/js/main.0b22f198.js"
+    "static/js/main.29d4bf93.js"
   ]
 }
