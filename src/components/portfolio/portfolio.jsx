@@ -56,7 +56,7 @@ const portfolio = () => {
               Github
             </a>
             <a
-              href="https://movie-app-project-nu.vercel.app/"
+              href="https://forja.vercel.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
